@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makphoenix
-- 👀 I’m interested in Python/Django and Ruby on Rails
-- 🌱 I’m currently learning both of them
+- 👀 I’m interested in Ruby on Rails and Python/Django.
+- 🌱 I’m currently working with Ruby on Rails since 2020.
 - 💞️ I’m looking to collaborate on get more experiences on them
 - 📫 How to reach me : mohammad.ali.kashi@gmail.com
 
